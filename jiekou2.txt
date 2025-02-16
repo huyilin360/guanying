@@ -57,131 +57,15 @@
       "searchable": 1,
       "changeable": 1
     },
-    {
-      "key": "115",
-      "name": "💓‍115┃4K💓‍",
+     {
+      "key": "瓜子",
+      "name": "🍉瓜子┃App",
       "type": 3,
-      "api": "csp_Wex115shareGuard",
+      "api": "csp_GuaziGuard",
       "searchable": 1,
-      "changeable": 1,
-      "timeout": 50,
-      "style": {
-        "type": "list"
-      }
-    },
-    {
-      "key": "盘他",
-      "name": "💓‍盘他┃4K💓‍",
-      "type": 3,
-      "api": "csp_WexYDpantaGuard",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "雷鲸",
-      "name": "💓‍雷鲸┃4K💓‍",
-      "type": 3,
-      "api": "csp_WexleijingGuard",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "玩偶",
-      "name": "💓‍玩偶┃4K💓‍",
-      "type": 3,
-      "api": "csp_WoggGuard",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "Wexnullname",
-      "name": "💓无名┃4K💓",
-      "type": 3,
-      "api": "csp_WexnullnameGuard",
-      "searchable": 1,
-      "changeable": 1,
-      "timeout": 120
-    },
-    {
-      "key": "Wex4kfmGuard",
-      "name": "💓影库┃4K💓",
-      "type": 3,
-      "api": "csp_Wex4kfmGuard",
-      "searchable": 1,
-      "changeable": 1,
-      "timeout": 120
-    },
-    {
-      "key": "Wexyingchao",
-      "name": "💓鸟巢┃4K💓",
-      "type": 3,
-      "api": "csp_WexyingchaoGuard",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "Wexwanni",
-      "name": "💓玩你┃4K💓",
-      "type": 3,
-      "api": "csp_WexwanniGuard",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "WexshuangzixingGuard",
-      "name": "💓双星┃4K💓",
-      "type": 3,
-      "api": "csp_WexshuangzixingGuard",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "Wexmuougg",
-      "name": "💓木偶┃4K💓",
-      "type": 3,
-      "api": "csp_WexmuouggGuard",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "Wexzhizhen",
-      "name": "💓至臻┃4K💓",
-      "type": 3,
-      "api": "csp_WexzhizhenGuard",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "WexxiaomiziyuanGuard",
-      "name": "💓小米┃4K💓",
-      "type": 3,
-      "api": "csp_WexxiaomiziyuanGuard",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "WexfeimaoziyuanGuard",
-      "name": "💓肥猫┃4K💓",
-      "type": 3,
-      "api": "csp_WexfeimaoziyuanGuard",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "WexxzysGuard",
-      "name": "💓校长┃4K💓",
-      "type": 3,
-      "api": "csp_WexxzysGuard",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "WexydbixinGuard",
-      "name": "💓比心┃YD💓",
-      "type": 3,
-      "api": "csp_WexydbixinGuard",
-      "searchable": 1,
-      "changeable": 1
+      "quickSearch": 1,
+      "filterable": 1,
+      "timeout": 10
     },
     {
       "key": "賤賤",
